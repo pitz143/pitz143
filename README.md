@@ -8,3 +8,9 @@
 pitz143/pitz143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# Thing i m working on
+
+1. Pratix-WebBuilder
+2. Speech recognition program Yaaro
+3. Android Accessibility program
