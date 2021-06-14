@@ -1,6 +1,8 @@
 <p align ="center">
-<img src="https://i.pinimg.com/280x280_RS/92/1e/03/921e03e14dd7f5fac2c916ca0e313338.jpg"/>
+  
 </p>
+
+<!--<img src="https://i.pinimg.com/280x280_RS/92/1e/03/921e03e14dd7f5fac2c916ca0e313338.jpg"/>-->
 
 - 👋 Hello there, I’m pratik radia
 - 👀 I’m interested in PyQt, Python, HTML, CSS, Javascript, Android Studio and many frameworks related to these.
