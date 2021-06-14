@@ -22,18 +22,18 @@ You can click the Preview link to take a look at your changes.
 # Programming I Know
 
 <p align = "center">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color="dark-blue"/> 
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Android%20-%23000.svg?&style=for-the-badge&logo=android&logoColor=green&color=blue"/> 
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/ionic%20-%23F05033.svg?&style=for-the-badge&logo=ionic&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/flutter%20-%23FF9900.svg?&style=for-the-badge&logo=flutter&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React%20-%23430098.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML%20-%23F05033.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PHP%20-%23FF9900.svg?&style=for-the-badge&logo=php&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/css%20-%23430098.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23F05033.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/jQuery%20-%23FF9900.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/java%20-%23430098.svg?&style=for-the-badge&logo=java&logoColor=white"/> 
 </p>
